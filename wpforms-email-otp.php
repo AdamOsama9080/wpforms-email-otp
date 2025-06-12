@@ -17,10 +17,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 // Kept inline here only because you asked to "edit here" directly.
 //----------------------------------
 if ( ! defined( 'WPFORMS_EMAIL_OTP_SMTP_USER' ) ) {
-    define( 'WPFORMS_EMAIL_OTP_SMTP_USER', 'khalilkapo15@gmail.com' );
+    define( 'WPFORMS_EMAIL_OTP_SMTP_USER', 'zN5tL@example.com' );
 }
 if ( ! defined( 'WPFORMS_EMAIL_OTP_SMTP_PASS' ) ) {
-    define( 'WPFORMS_EMAIL_OTP_SMTP_PASS', 'ouilhrrxutrupdfo' ); // 👉 Gmail *App Password* (NOT your main password)
+    define( 'WPFORMS_EMAIL_OTP_SMTP_PASS', 'your_gmail_app_password' ); // 👉 Gmail *App Password* (NOT your main password)
 }
 
 //----------------------------------
